@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### Hi, there 👋
 
 <!--
 **DoraemonYu/doraemonyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=doraemonyu&show_icons=true&hide=contribs)](https://doraemonyu.github.io) 　
+[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=doraemonyu&hide=ruby,scss,html,batchfile)](https://doraemonyu.github.io) 
