@@ -7,7 +7,7 @@ Simultaneously, I am a System-Architect and a MCSD (certified by Microsoft).
 
 In my leisure time, except daily developments, I like reading books, cooking, traveling and science.   
 Furthermore I run a non-profit personal studio named *幻蓝工作室*.   
-BTW, my nickname as you see, I am a big fan of *Doraemon* ~\\(≧▽≦)/~   
+BTW, my nickname as you see, I am a big fan of *Doraemon* \~\\(≧▽≦)/\~   
 
 <!--
 **DoraemonYu/doraemonyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
